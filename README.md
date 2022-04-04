@@ -9,4 +9,6 @@ set up:
 
 将需要解码文件放入decode_file中
 
-docker exec -it Ciphey [python3 -m ciphey -f ] or docker exec -it Ciphey python3 -m ciphey -- "密文"
+docker exec -it Ciphey [python3 -m ciphey -f <fielname>] 
+or
+docker exec -it Ciphey python3 -m ciphey -- "密文"
