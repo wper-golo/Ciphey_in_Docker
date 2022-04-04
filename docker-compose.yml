@@ -1,0 +1,7 @@
+version: "3.3"
+services:
+  ciphey:
+    build: .
+    volumes:
+      - ./decode_file:/Ciphey
+    container_name: Ciphey
