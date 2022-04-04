@@ -5,7 +5,9 @@ Docker for Ciphey source 👍 https://github.com/Ciphey/Ciphey
 
 set up:
 
-1.docker-compose up -d
+docker-compose up -d
+
+how to use:
 
 将需要解码文件放入decode_file中
 
