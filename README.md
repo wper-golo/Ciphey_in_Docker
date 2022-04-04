@@ -8,9 +8,9 @@ https://blog.csdn.net/Dome_/article/details/120689591?ops_request_misc=%257B%252
 set up:
 
 docker-compose up -d
-
+                                                       
 how to use:
-
+                                                                     
 将需要解码文件放入decode_file中
                                                                                                    
 docker exec -it Ciphey python3 -m ciphey -f fielname 
